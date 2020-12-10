@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1607496624 source:d:\code blocks workspace\cpp_cheat_sheet\main.cpp
+
+1607496571 source:d:\code blocks workspace\cpp_cheat_sheet\datatypes.cpp
+	<iostream>
+
+1607515870 source:d:\code blocks workspace\cpp_cheat_sheet\variables.cpp
+	<iostream>
+
+1607516182 source:d:\code blocks workspace\cpp_cheat_sheet\loops.cpp
+	<iostream>
+
