@@ -7,6 +7,13 @@
 1607515870 source:d:\code blocks workspace\cpp_cheat_sheet\variables.cpp
 	<iostream>
 
-1607516182 source:d:\code blocks workspace\cpp_cheat_sheet\loops.cpp
+1607516356 source:d:\code blocks workspace\cpp_cheat_sheet\loops.cpp
 	<iostream>
+
+1607586142 source:d:\code blocks workspace\cpp_cheat_sheet\newdeleteop.cpp
+	<iostream>
+
+1607586741 source:d:\code blocks workspace\cpp_cheat_sheet\arrays.cpp
+	<iostream>
+	<cstdlib>
 
