@@ -29,6 +29,24 @@
 1607690873 source:d:\code blocks workspace\cpp_cheat_sheet\references.cpp
 	<iostream>
 
-1607693064 source:d:\code blocks workspace\cpp_cheat_sheet\thispointer.cpp
+1607693112 source:d:\code blocks workspace\cpp_cheat_sheet\thispointer.cpp
+	<iostream>
+
+1607773623 source:d:\code blocks workspace\cpp_cheat_sheet\operatoroverloaing.cpp
+	<iostream>
+
+1607795854 source:d:\code blocks workspace\cpp_cheat_sheet\accessmodifiers.cpp
+	<iostream>
+
+1607797231 source:d:\code blocks workspace\cpp_cheat_sheet\friendclassfunction.cpp
+	<iostream>
+
+1607799852 source:d:\code blocks workspace\cpp_cheat_sheet\classobject.cpp
+	<iostream>
+
+1607801111 source:d:\code blocks workspace\cpp_cheat_sheet\inheritance.cpp
+	<iostream>
+
+1607801478 source:d:\code blocks workspace\cpp_cheat_sheet\polymorphism.cpp
 	<iostream>
 
