@@ -47,6 +47,12 @@
 1607801111 source:d:\code blocks workspace\cpp_cheat_sheet\inheritance.cpp
 	<iostream>
 
-1607801478 source:d:\code blocks workspace\cpp_cheat_sheet\polymorphism.cpp
+1607802109 source:d:\code blocks workspace\cpp_cheat_sheet\polymorphism.cpp
+	<iostream>
+
+1607861314 source:d:\code blocks workspace\cpp_cheat_sheet\constructorsdestructors.cpp
+	<iostream>
+
+1607874782 source:d:\code blocks workspace\cpp_cheat_sheet\exceptionhandling.cpp
 	<iostream>
 

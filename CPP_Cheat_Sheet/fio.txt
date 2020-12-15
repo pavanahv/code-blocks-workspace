@@ -1,0 +1,2 @@
+This is some string
+Inside a file -1
