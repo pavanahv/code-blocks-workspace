@@ -56,3 +56,12 @@
 1607874782 source:d:\code blocks workspace\cpp_cheat_sheet\exceptionhandling.cpp
 	<iostream>
 
+1608016332 source:d:\code blocks workspace\cpp_cheat_sheet\iofstream.cpp
+	<iostream>
+	<fstream>
+
+1608022769 source:d:\code blocks workspace\cpp_cheat_sheet\serilizationfstream.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+
